@@ -11,3 +11,4 @@ Use this app to create readme files from the terminal upon running the index.js 
 
 ## Video
 
+Clicking on this --> [!video link image](https://drive.google.com/file/d/1ZXj8BQ-yA28BDtPpKeK0yGzDaZ4aHmGB/view?usp=sharing) will take us to the video demo.
